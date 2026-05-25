@@ -1,5 +1,12 @@
 # Market Muse Track - Portfolio Management Application
 
+<img width="1600" height="650" alt="image" src="https://github.com/user-attachments/assets/cea7fc36-bfd6-4d11-9496-0f42b80f2355" />
+<img width="1568" height="655" alt="image" src="https://github.com/user-attachments/assets/f8088359-fa80-4774-9d5b-648f083c9120" />
+<img width="1594" height="654" alt="image" src="https://github.com/user-attachments/assets/faea864f-43a2-405c-b9ae-84d6e1aba0da" />
+
+
+
+
 ## Description
 
 A comprehensive portfolio management application that allows users to track investments, analyze market trends, and manage their financial portfolios with real-time updates and intuitive UI.
